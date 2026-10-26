@@ -1,0 +1,14 @@
+# AhorraEnergía
+
+> Calculadoras gratuitas de energía doméstica para España. Todo el cálculo ocurre en el navegador del visitante, sin registro, sin cookies y con todos los supuestos publicados.
+
+## Herramientas y páginas
+
+- [Inicio](https://joseangelbmt.github.io/ahorraenergia/): Calculadoras gratuitas de la luz para España: estima tu factura, el coste de un electrodoméstico y compara dos tarifas. Sin registro y con todos los supuestos explicados.
+- [Calculadora de la luz](https://joseangelbmt.github.io/ahorraenergia/calculadora-luz/): Calcula cuánto pagas de luz al mes y al año con tu consumo, tu precio €/kWh, la potencia contratada y los impuestos que quieras incluir. Desglose completo y supuestos transparentes.
+- [Coste de un electrodoméstico](https://joseangelbmt.github.io/ahorraenergia/coste-electrodomestico/): Descubre cuánto te cuesta un electrodoméstico: introduce su potencia en vatios, las horas de uso al día y tu precio de la luz, y obtén el coste al día, al mes y al año.
+- [Comparador de tarifas](https://joseangelbmt.github.io/ahorraenergia/comparar-tarifas/): Compara dos tarifas de luz con tus propios precios y consumo: energía, potencia, cuota fija e impuestos. Con soporte para tarifas de uno o dos periodos y ahorro anual estimado.
+- [Calculadora de potencia](https://joseangelbmt.github.io/ahorraenergia/calculadora-potencia/): Calcula qué potencia contratada necesita tu hogar y cuánto ahorrarías al cambiar los kW contratados. Con supuestos editables, desglose del ahorro y sin registro.
+- [Metodología](https://joseangelbmt.github.io/ahorraenergia/metodologia/): Fórmulas exactas, redondeos, tratamiento de impuestos y límites de las estimaciones de AhorraEnergía. Transparencia total sobre cómo calculamos cada resultado.
+- [Aviso legal](https://joseangelbmt.github.io/ahorraenergia/aviso-legal/): Identificación del titular, condiciones de uso, propiedad intelectual y responsabilidad del sitio AhorraEnergía.
+- [Privacidad](https://joseangelbmt.github.io/ahorraenergia/privacidad/): Sin cookies ni seguimiento: qué datos trata AhorraEnergía (ninguno en servidor), qué se guarda en tu navegador y cómo ejercer tus derechos.
