@@ -1,4 +1,4 @@
-# AhorraEnergía
+# AhorraEnergía Hogar
 
 > Calculadoras gratuitas de energía doméstica para España. Todo el cálculo ocurre en el navegador del visitante, sin registro, sin cookies y con todos los supuestos publicados.
 
@@ -15,6 +15,6 @@
 - [Cuánto consume cada electrodoméstico](https://ahorraenergiahogar.com/consumo-electrodomesticos/): Consumo típico de lavadora, horno, aire acondicionado y demás electrodomésticos: cómo calcularlo con sus vatios, ejemplos reales y cuánto te cuesta en tu factura.
 - [Cómo leer tu factura de la luz](https://ahorraenergiahogar.com/factura-de-luz/): Qué significa cada línea de tu factura de la luz: energía, potencia, impuestos y descuentos explicados uno a uno, con las calculadoras para comprobarlos.
 - [Horarios de la luz (2.0TD)](https://ahorraenergiahogar.com/horarios-luz/): Franjas horarias de la tarifa 2.0TD: punta, llano y valle entre semana, fines de semana y festivos, y cómo desplazar tu consumo para pagar menos.
-- [Metodología](https://ahorraenergiahogar.com/metodologia/): Fórmulas exactas, redondeos, tratamiento de impuestos y límites de las estimaciones de AhorraEnergía. Transparencia total sobre cómo calculamos cada resultado.
-- [Aviso legal](https://ahorraenergiahogar.com/aviso-legal/): Identificación del titular, condiciones de uso, propiedad intelectual y responsabilidad del sitio AhorraEnergía.
-- [Privacidad](https://ahorraenergiahogar.com/privacidad/): Sin cookies ni seguimiento: qué datos trata AhorraEnergía (ninguno en servidor), qué se guarda en tu navegador y cómo ejercer tus derechos.
+- [Metodología](https://ahorraenergiahogar.com/metodologia/): Fórmulas exactas, redondeos, tratamiento de impuestos y límites de las estimaciones de AhorraEnergía Hogar. Transparencia total sobre cómo calculamos cada resultado.
+- [Aviso legal](https://ahorraenergiahogar.com/aviso-legal/): Identificación del titular, condiciones de uso, propiedad intelectual y responsabilidad del sitio AhorraEnergía Hogar.
+- [Privacidad](https://ahorraenergiahogar.com/privacidad/): Sin cookies ni seguimiento: qué datos trata AhorraEnergía Hogar (ninguno en servidor), qué se guarda en tu navegador y cómo ejercer tus derechos.
